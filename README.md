@@ -1,8 +1,7 @@
 # Ex. No. 9: AI-Driven Simulation for Open-Heart Surgery Tutorial  
+
 **Date:** 8.10.2025
-
 **Name:** Deepika S
-
 **Reg. No.:** 212222230028
 ---
 
